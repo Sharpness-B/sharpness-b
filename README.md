@@ -1,4 +1,4 @@
-### Hello ✨
+### Hello ✨!
 
 Atm I'm having a gap year after upper secondary school to do the stuff that I love!
 
@@ -6,7 +6,7 @@ I love to play the clarinet, and also to code:)
 
 Python is boss, but I find web stuff more cool tbh. I also do love the cloud 🌩️.
 
-The best way to reach me is by contacting me.
+The best way to reach me is by contacting me 👍.
 
 <!--
 **Sharpness-B/sharpness-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
