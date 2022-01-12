@@ -2,6 +2,8 @@
 
 The best way to reach me is by contacting me 👍.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharpness-B&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Sharpness-B/sharpness-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
