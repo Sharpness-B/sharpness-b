@@ -2,6 +2,11 @@
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" />
 </a>
 
+<h1>Advancer 2.0</h1>
+<a href="https://github.com/Sharpness-B/Advancer-2.0/" target="_blank">A multiplayer 3d space shooter game with a custom graphics engine! By far the project that I'm the most proud of!</a>
+
+![gameplay](https://github.com/Sharpness-B/Advancer-2.0/blob/main/marketing_assets/main.gif?raw=true)
+
 <!--
 **Sharpness-B/sharpness-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
