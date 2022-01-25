@@ -1,23 +1,10 @@
 <a href="https://www.linkedin.com/in/skarpnes/" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="30">
 </a>
 
-<h1>Advancer 2.0</h1>
-<a href="https://github.com/Sharpness-B/Advancer-2.0/" target="_blank">A multiplayer 3d space shooter game with a custom graphics engine! By far the project that I'm the most proud of!</a>
+<h2>Advancer 2.0</h2>
 
-![gameplay](https://github.com/Sharpness-B/Advancer-2.0/blob/main/marketing_assets/main.gif?raw=true)
-
-<!--
-**Sharpness-B/sharpness-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/Sharpness-B/Advancer-2.0/" target="_blank">
+  A multiplayer 3d space shooter game with a custom graphics engine! By far the project that I'm the most proud of!
+  <img src="https://github.com/Sharpness-B/Advancer-2.0/blob/main/marketing_assets/main.gif?raw=true" alt="gameplay">
+</a>
