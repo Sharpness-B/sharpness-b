@@ -9,6 +9,6 @@ Github: <a href="https://github.com/Sharpness-B/Advancer-2.0/" target="_blank">
 </a>
 
 A multiplayer 3d space shooter game with a custom graphics engine! By far the project that I'm the most proud of!
-<a href="advancer20.herokuapp.com" target="_blank">
+<a href="https://advancer20.herokuapp.com" target="_blank">
   <img src="https://github.com/Sharpness-B/Advancer-2.0/blob/main/marketing_assets/main.gif?raw=true" alt="gameplay">
 </a>
