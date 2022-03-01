@@ -1,7 +1,19 @@
 ### I'm Bendik
+\- passionate about creative ideas! 🔭
 
 ## Technology
+```
+Python     | ------------------------->         |
+Javascript | -------------------------------->  |
 
+React      | --------------------------->       |
+Node JS    | ---------------------->            |
+
+Azure      | ---------------------->            |
+SQL        | ------------------------->         |
+NO-SQL     | ------------------------->         |
+```
+  
 ## Advancer 2.0
 <a href="https://github.com/Sharpness-B/Advancer-2.0/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
@@ -13,7 +25,6 @@ A multiplayer 3d space shooter game with a custom graphics engine! By far the pr
 </a>
 
 ## Social Media
-
 <a href="https://www.linkedin.com/in/skarpnes/" target="_blank" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
