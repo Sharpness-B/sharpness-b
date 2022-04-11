@@ -3,15 +3,15 @@
 
 ## Technology
 ```
-Python     | ------------------------->         |
-Javascript | -------------------------------->  |
+Python     | -------------------->       |
+Javascript | ----------------------->    |
 
-React      | --------------------------->       |
-Node JS    | ---------------------->            |
+React      | ----------------->          |
+Node JS    | --------------->            |
 
-Azure      | ---------------------->            |
-SQL        | ------------------------->         |
-NO-SQL     | ------------------------->         |
+Azure      | ---------------->           |
+SQL        | ------------------->        |
+NO-SQL     | ------------------->        |
 ```
   
 ## Advancer 2.0
@@ -32,4 +32,3 @@ A multiplayer 3d space shooter game with a custom graphics engine! By far the pr
 <a href="https://www.instagram.com/bendikskarpnes/" target="_blank" >
   <img align="left"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-
