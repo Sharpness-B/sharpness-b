@@ -20,6 +20,9 @@ NO-SQL     | ------------------->        |
 </a>
 
 A multiplayer 3d space shooter game with a custom graphics engine! By far the project that I'm the most proud of!
+<a href="https://github.com/Sharpness-B/Advancer-2.0/" target="_blank">
+  <img id="imgUserCount" src="https://advancer20.herokuapp.com/user_count" type="image/svg+xml">
+</a>
 <a href="https://advancer20.herokuapp.com" target="_blank">
   <img src="https://github.com/Sharpness-B/Advancer-2.0/blob/main/marketing_assets/main.gif?raw=true" alt="gameplay">
 </a>
