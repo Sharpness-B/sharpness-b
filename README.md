@@ -35,3 +35,44 @@ A multiplayer 3d space shooter game with a custom graphics engine! By far the pr
 <a href="https://www.instagram.com/bendikskarpnes/" target="_blank" >
   <img align="left"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+<br>
+
+### I also like to make fun and useful apps, for my own use. Here are some highlights:
+
+## Speed Reading
+<a href="https://github.com/Sharpness-B/speed-reading/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+A fun app for practicing sight reading!
+
+<a href="https://speed-reading-music.vercel.app/" target="_blank">
+  <img src="https://github.com/Sharpness-B/speed-reading/blob/main/demo_image.png?raw=true" alt="demo">
+</a>
+
+## Fair Scrabble
+<a href="https://github.com/Sharpness-B/fair-scrabble/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+Scrabble is with unclear rules, not a fair game!
+
+This app fixes uncomfortable family discussions by providing:
+ - a timer for each move, such that no one spends ages thinking
+ - a scoring system
+ - an implemtation the penalty challenge rule
+
+<a href="https://fair-scrabble.vercel.app/" target="_blank">
+  <img src="https://github.com/Sharpness-B/fair-scrabble/blob/main/readme_images/homepage.png?raw=true" alt="demo">
+</a>
+
+## Unknown Source
+<a href="https://github.com/Sharpness-B/unknown-source/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+Guess the publisher of the latest top headlines! How biased is the news? Can you differentiate them and make it to the leaderboard?
+
+<a href="https://unknown-source.vercel.app/" target="_blank">
+  <img src="https://github.com/Sharpness-B/unknown-source/blob/main/readme_images/screenshot_mobile_gameplay.png?raw=true" alt="demo">
+</a>
