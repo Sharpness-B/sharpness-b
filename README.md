@@ -1,7 +1,4 @@
-### I'm Bendik
-\- passionate about creative ideas! 🔭
-
-## Technology
+### I'm Bendik 🔭
 ```
 Python     | -------------------->       |
 Javascript | ----------------------->    |
@@ -76,3 +73,5 @@ Guess the publisher of the latest top headlines! How biased is the news? Can you
 <a href="https://unknown-source.vercel.app/" target="_blank">
   <img src="https://github.com/Sharpness-B/unknown-source/blob/main/readme_images/screenshot_mobile_gameplay.png?raw=true" alt="demo">
 </a>
+
+![](https://komarev.com/ghpvc/?username=Sharpness-B&color=yellow)
