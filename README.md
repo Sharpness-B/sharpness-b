@@ -28,10 +28,6 @@ A multiplayer 3d space shooter game with a custom graphics engine! By far the pr
 <a href="https://www.linkedin.com/in/skarpnes/" target="_blank" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-<a href="https://www.instagram.com/bendikskarpnes/" target="_blank" >
-  <img align="left"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
 <br>
 
 ### I also like to make fun and useful apps, for my own use. Here are some highlights:
@@ -43,7 +39,7 @@ A multiplayer 3d space shooter game with a custom graphics engine! By far the pr
 
 A fun app for practicing sight reading!
 
-<a href="https://speed-reading-music.vercel.app/" target="_blank">
+<a href="https://speed-reading-1w1ff80vl-sharpness-b.vercel.app/" target="_blank">
   <img src="https://github.com/Sharpness-B/speed-reading/blob/main/demo_image.png?raw=true" alt="demo">
 </a>
 
@@ -59,7 +55,7 @@ This app fixes uncomfortable family discussions by providing:
  - a scoring system
  - an implemtation the penalty challenge rule
 
-<a href="https://fair-scrabble.vercel.app/" target="_blank">
+<a href="https://fair-scrabble-4vqxhb0f2-sharpness-b.vercel.app/" target="_blank">
   <img src="https://github.com/Sharpness-B/fair-scrabble/blob/main/readme_images/homepage.png?raw=true" alt="demo">
 </a>
 
@@ -70,7 +66,7 @@ This app fixes uncomfortable family discussions by providing:
 
 Guess the publisher of the latest top headlines! How biased is the news? Can you differentiate them and make it to the leaderboard?
 
-<a href="https://unknown-source.vercel.app/" target="_blank">
+<a href="https://unknown-source-8004d457z-sharpness-b.vercel.app/" target="_blank">
   <img src="https://github.com/Sharpness-B/unknown-source/blob/main/readme_images/screenshot_mobile_gameplay.png?raw=true" alt="demo">
 </a>
 
