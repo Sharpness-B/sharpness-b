@@ -24,12 +24,6 @@ A multiplayer 3d space shooter game with a custom graphics engine! By far the pr
   <img src="https://github.com/Sharpness-B/Advancer-2.0/blob/main/marketing_assets/main.gif?raw=true" alt="gameplay">
 </a>
 
-## Social Media
-<a href="https://www.linkedin.com/in/skarpnes/" target="_blank" >
-  <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<br>
-
 ### I also like to make fun and useful apps, for my own use. Here are some highlights:
 
 ## Speed Reading
